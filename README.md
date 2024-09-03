@@ -1,7 +1,10 @@
-# Alchemical Process Inspired by John Dee's Monas Hieroglyphica
-![The Monad](http://library.hrmtc.com/wp-content/uploads/2014/02/the-circumference-and-the-hieroglyphic-monad-3.gif)
--To perform the alchemical process inspired by John Dee's Monas Hieroglyphica using the symbolic elements and astrological correspondences, you’ll need to --follow a detailed procedure. Here’s a step-by-step guide to help you through the process, tailored for clarity and ease of understanding:
+<p align="center">
+  <img src="http://library.hrmtc.com/wp-content/uploads/2014/02/the-circumference-and-the-hieroglyphic-monad-3.gif" alt="The Monad" />
+</p>
 
+# Alchemical Process Inspired by John Dee's Monas Hieroglyphica
+
+To perform the alchemical process inspired by John Dee's Monas Hieroglyphica using the symbolic elements and astrological correspondences, you’ll need to follow a detailed procedure. Here’s a step-by-step guide to help you through the process, tailored for clarity and ease of understanding:
 
 ## Preparation
 
